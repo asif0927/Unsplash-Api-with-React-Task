@@ -1,0 +1,14 @@
+.formDiv{
+    display: flex;
+    flex-direction: column;
+}
+.formDiv label{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 10px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.inputform{
+    padding: 5px;
+    margin: 10px;
+}
